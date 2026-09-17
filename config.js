@@ -29,5 +29,5 @@ const CONFIG = {
       "Ben,",
     ],
   },
-  seedText: "Tap here"
+  seedText: "Click here"
 };
