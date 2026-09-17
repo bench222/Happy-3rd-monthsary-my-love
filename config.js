@@ -20,7 +20,7 @@ const CONFIG = {
       "Happy 3rd monthsary. I love you, and I'm so grateful for you, even from afar.",
     ],
 
-    paragraph5: [git 
+    paragraph5: [
       "Happy 3rd monthsary. I love you, and I'm so grateful for you, even from afar.",
     ],
 
