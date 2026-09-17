@@ -17,7 +17,7 @@ const CONFIG = {
     paragraph4: [
       "I can't wait for the day we finally meet, no more screens, no more distance, just us.",
       "Until then, I'll keep loving you the best way I can, through calls, texts, and every little effort I make to show you I'm here.",
-      "Happy 3rd monthsary. I love you, and I'm so grateful for you, even from afar.",
+    
     ],
 
     paragraph5: [
