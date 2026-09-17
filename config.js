@@ -19,7 +19,12 @@ const CONFIG = {
       "Until then, I'll keep loving you the best way I can, through calls, texts, and every little effort I make to show you I'm here.",
       "Happy 3rd monthsary. I love you, and I'm so grateful for you, even from afar.",
     ],
-     paragraph5: [
+
+    paragraph5: [git 
+      "Happy 3rd monthsary. I love you, and I'm so grateful for you, even from afar.",
+    ],
+
+     paragraph6: [
       "All my love,",
       "Ben,",
     ],
